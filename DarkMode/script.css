@@ -1,0 +1,16 @@
+body{
+    background-color: #fff;
+    color: black;
+}
+
+body.dark{
+    background-color: black;
+    color: #fff;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items:center;
+}
